@@ -1,5 +1,5 @@
 {"videos":
-
+[
  {
     "id": 1,
     "title": "As paisagens do mundo",
@@ -69,4 +69,5 @@
     "url": "https://www.youtube.com/watch?v=QUc_M1b1uNE",
     "cover": "https://img.youtube.com/vi/QUc_M1b1uNE/maxresdefault.jpg",
     "category": "front-end"
-  }}
+  }]
+}
