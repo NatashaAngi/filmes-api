@@ -1,28 +1,72 @@
 {"videos":
 
-[
-    {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
-    },
-    {
-        "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
-    },
-    {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
-    },
-    {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-    }
-]}
+ {
+    "id": 1,
+    "title": "As paisagens do mundo",
+    "url": "https://www.youtube.com/watch?v=B_nq7VTJZds",
+    "cover": "https://img.youtube.com/vi/B_nq7VTJZds/maxresdefault.jpg",
+    "category": "front-end"
+  },
+  {
+    "id": 2,
+    "title": "As paisagens e suas transformações",
+    "url": "https://www.youtube.com/watch?v=8PjBddZ2cdo",
+    "cover": "https://img.youtube.com/vi/8PjBddZ2cdo/maxresdefault.jpg",
+    "category": "front-end"
+  },
+  {
+    "id": 3,
+    "title": "Paisagem Geográfica e Espaço Geográfico",
+    "url": "https://www.youtube.com/watch?v=yqZsBn5Z1xc",
+    "cover": "https://img.youtube.com/vi/yqZsBn5Z1xc/maxresdefault.jpg",
+    "category": "back-end"
+  },
+  {
+    "id": 4,
+    "title": "Espaço, Lugar e Território",
+    "url": "https://www.youtube.com/watch?v=ee15tCw1kYo",
+    "cover": "https://img.youtube.com/vi/ee15tCw1kYo/maxresdefault.jpg",
+    "category": "back-end"
+  },
+  {
+    "id": 5,
+    "title": "Orientação e Localização",
+    "url": "https://www.youtube.com/watch?v=QUc_M1b1uNE",
+    "cover": "https://img.youtube.com/vi/QUc_M1b1uNE/maxresdefault.jpg",
+    "category": "front-end"
+  },
+  {
+    "id": "6",
+    "title": "teste",
+    "cover": "https://img.youtube.com/vi/8PjBddZ2cdo/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=8PjBddZ2cdo",
+    "category": "back-end"
+  },
+  {
+    "id": "7",
+    "title": "teste",
+    "cover": "https://img.youtube.com/vi/8PjBddZ2cdo/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=8PjBddZ2cdo",
+    "category": "back-end"
+  },
+  {
+    "id": 8,
+    "title": "Orientação e Localização",
+    "url": "https://www.youtube.com/watch?v=QUc_M1b1uNE",
+    "cover": "https://img.youtube.com/vi/QUc_M1b1uNE/maxresdefault.jpg",
+    "category": "front-end"
+  },
+  {
+    "id": 9,
+    "title": "Orientação e Localização",
+    "url": "https://www.youtube.com/watch?v=QUc_M1b1uNE",
+    "cover": "https://img.youtube.com/vi/QUc_M1b1uNE/maxresdefault.jpg",
+    "category": "back-end"
+  },
+  {
+    "id": 10,
+    "title": "Orientação e Localização",
+    "url": "https://www.youtube.com/watch?v=QUc_M1b1uNE",
+    "cover": "https://img.youtube.com/vi/QUc_M1b1uNE/maxresdefault.jpg",
+    "category": "front-end"
+  }}
